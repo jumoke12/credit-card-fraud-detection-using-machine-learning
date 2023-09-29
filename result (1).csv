@@ -1,0 +1,5 @@
+Metrics (%),DecisionTree,NaiveBayes,KNN,SVM
+Precision,93.52,99.06,99.81,99.86
+Recall,94.08,81.29,100,100
+F1 score,93.8,89.3,99.91,99.93
+Accuracy,93.8,90.28,99.91,99.93
